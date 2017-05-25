@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <title>The Weakest Link Trinidad</title>
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+
+  </head>
+  <body>
+    <div class="container border">
+      <figure id="volume" class="border">
+        <img src="Images/volume_on.png" alt="volume_on">
+        <div>Time to answer question <span id="time">02:00</span> minutes!</div>
+      </figure>
+      <section id="game" class="wrapper border centerTag center">
+          <aside class="bankWrapper  border" style="color: red">
+              <div class="moneyTree centerTag center border" value="500000">$500000</div>
+              <div class="moneyTree centerTag center border" value="250000">$250000</div>
+              <div class="moneyTree centerTag center border" value="125000">$125000</div>
+              <div class="moneyTree centerTag center border" value="75000">$75000</div>
+              <div class="moneyTree centerTag center border" value="50000">$50000</div>
+              <div class="moneyTree centerTag center border" value="10000">$10000</div>
+              <div class="moneyTree centerTag center border" value="5000">$5000</div>
+              <div class="moneyTree centerTag center border" value="1000">$1000</div>
+              <div class="moneyTree centerTag center border backGround" value="0">$0</div>
+              
+              
+              <div class="bank oval centerTag center border">$0</div>
+          </aside>
+
+          <artilce class="gameWrapper  border">
+            <div class="question centerTag center border">
+                Question Here
+            </div>
+            <div class="answer answer1 centerTag center border" value="1">Answer one here</div>
+            <br/>
+            <div class="answer answer2 centerTag center border" value="2">Answer two here</div>
+            <br/>
+            <div class="answer answer3 centerTag center border" value="3">Answer three here</div>
+
+          </artilce>
+        </section>
+      <section id="gameControl" class="control center">
+        <input type="button" id="start_game" class="" value="START GAME" />
+        <input type="button" class="" VALUE="RULES" id="rules"/>
+      </section>
+      <section id="gameinfoHolder" class="border centerTag fadeIn hide">
+         <div class="closeHolder">
+             <span class="close">&times;</span>
+         </div>
+          <div class="center">
+              SORRY, YOU HAVE LOSE
+          </div>
+      </section>
+    </div>
+    
+    <script src="js/script.js"></script>
+    <script type="text/javascript" src="js/quest.json"></script>
+  </body>
+</html>

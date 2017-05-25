@@ -1,0 +1,50 @@
+{
+    "Question": [
+        {
+            "quest": "Trinidad was colonized by which country before the english?",
+            "choice": ["English", "America", "Spain"],
+            "id": 3,
+            "fact": "Before being under British rule, Trinidad was colonized by the spanish between 1498 and 1797",
+            "pos":"0"
+		},
+        {
+            "quest": "How many hills are there in San Fernando?",
+            "choice": ["Three", "One", "Five"],
+            "id": 2,
+            "fact": "The Naparima Hill otherwise known as the San Fernando Hill is a 192-m Hill which lies at the centre of the city of San Fernando in Trinidad & Tobago",
+            "pos":"1"
+		}, {
+            "quest": "What is the number for the ambulance in Trinidad & Tobago?",
+            "choice": ["911", "999", "990"],
+            "id": 3,
+            "fact": "To contact the Fire and Ambulance servcies dail 990",
+            "pos":"2"
+		},
+        {
+            "quest": "Who was the Prime Minister in 2004?",
+            "choice": ["Patrick Manning", "ANR Robinson", "Maxwell Richard"],
+            "id": 1,
+            "fact": "Former political leader of the People's National Movement (PNM) Patrick Augustus Mervyn Manning having terms from 17 December 1991 to 9 November 1995 and from 24 December 2001 to 26 May 2010",
+            "pos":"3"
+		}, {
+            "quest": "Who gave San Fernando its current city name?",
+            "choice": ["Don Jose Maria Chacon", "you", "God"],
+            "id": 1,
+            "fact": "The last spanosh governor of trinidad was Don Jose Maria Chacon. He was responsible for signing the cedula of population in 1783 and founding the city of San Fernando",
+            "pos":"4"
+		},
+        {
+            "quest": "What you do when bored?",
+            "choice": ["send", "nudes", "girls"],
+            "id": 2,
+            "pos":"5"
+		},
+        {
+            "quest": "Who is the first president of Tobago?",
+            "choice": ["Tobago dont have a presidet", "Ellis Clarke ", "ANR Robisin"],
+            "id": 2,
+            "fact": "Ellis Emmanuel Innocent Clarke was the second and last Governor-General and was unamimously elected as president when Trinidad & Tobago became a Republic in 1976",
+            "pos":"6"
+		}
+	]
+}
